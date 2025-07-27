@@ -36,3 +36,6 @@ The project uses Maven for dependency management, requiring only the Gson librar
 
 # OUTPUT
 
+
+<img width="1751" height="871" alt="Image" src="https://github.com/user-attachments/assets/efc0e2cb-ad86-4d5e-8bc4-395245ff74cf" />
+
